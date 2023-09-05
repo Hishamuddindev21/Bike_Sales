@@ -1,2 +1,2 @@
 # Bike_Sales
- This is my bike sales exercises 
+ This is my bike sales folder for my python exercises
